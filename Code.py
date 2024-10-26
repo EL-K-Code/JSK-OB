@@ -11,3 +11,6 @@ else return None
 
 y = math.sqrt(x) 
 print(y)
+alex = "Alexis"
+for i in range(0, len(alex)):
+    print(alex)
