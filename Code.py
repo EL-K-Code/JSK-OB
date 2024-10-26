@@ -8,4 +8,6 @@ if x == 3:
 elif x == 2 :
     return False
 else return None
-  
+
+y = math.sqrt(x) 
+print(y)
