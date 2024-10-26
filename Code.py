@@ -14,3 +14,5 @@ print(y)
 alex = "Alexis"
 for i in range(0, len(alex)):
     print(alex)
+
+z = 3
